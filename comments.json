@@ -1,9 +1,11 @@
 [
     {
+		"key": 10,
         "author": "Pete Hunt",
         "text": "Hey there!"
     },
     {
+		"key": 22,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
     }
