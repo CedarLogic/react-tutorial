@@ -1,12 +1,44 @@
 [
     {
-		"key": 10,
+        "key": 10,
         "author": "Pete Hunt",
         "text": "Hey there!"
     },
     {
-		"key": 22,
+        "key": 22,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "author": "foo",
+        "text": "bar"
+    },
+    {
+        "author": "zz",
+        "text": "zz"
+    },
+    {
+        "author": "sss",
+        "text": "ssss"
+    },
+    {
+        "author": "ddd",
+        "text": "dddd"
+    },
+    {
+        "author": "dddd",
+        "text": "dddd"
+    },
+    {
+        "author": "ddd",
+        "text": "dddd"
+    },
+    {
+        "author": "ddd",
+        "text": "dddd"
+    },
+    {
+        "author": "zzzz",
+        "text": "zzz"
     }
 ]
